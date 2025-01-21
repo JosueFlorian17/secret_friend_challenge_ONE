@@ -30,11 +30,3 @@ It's a fun and interactive way to organize a secret friend exchange, ensuring th
 - **CSS3**: For styling the application.
 - **JavaScript**: For implementing the core functionality, including adding participants and performing the random draw.
 
-## Getting Started
-
-To get a local copy of this project up and running, follow these steps:
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/JosueFlorian17/secret_friend_challenge_ONE.git
